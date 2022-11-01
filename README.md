@@ -5,5 +5,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hax-Inkling&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hax-Inkling&theme=dracula)
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hax-Inkling)](https://github.com/ryo-ma/github-profile-trophy)
